@@ -1,7 +1,7 @@
 html, body {
     min-height: 100vh;
     height: auto; 
-    background-image: url("../image/forecast.jpg");
+    background-image: url("/Weather-Forecast/assets/image/forecast.jpg");
     font-family: "Rubik", sans-serif;
     background-size: cover;
     background-position: center;
